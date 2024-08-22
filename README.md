@@ -1,1 +1,3 @@
 # AAW-Grupo2
+
+Asix es una startup dirigida por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), pertenecientes a la Facultad de Ingeniería de Sistemas, que usando los métodos y técnicas vistos en el curso se desarrollará Avi, esta aplicación que ayude a acelerar el proceso de decisión del usuario para que al final se le retorne el mejor resultado.  Esta solución, mediante una aplicación móvil y un sitio web que ayude a reservar los datos obtenidos, permitirá al usuario acceder a información de su preferencia y necesidad. Además, Avi contará con un sistema especial de publicidad que, de manera precisa, te recomendará múltiples opciones de diferentes tiendas independientes que vayan de acuerdo a tus gustos.
